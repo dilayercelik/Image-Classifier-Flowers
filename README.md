@@ -30,7 +30,7 @@ predict.py -> python script to predict flower name from input image.
 
 cat_to_name.json -> JSON file storing a dictionary of numeric indices (keys) and image categories (values - flowers' names)
 
-
+# Data
 
 To access the data: download it [here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz).
 
