@@ -26,7 +26,8 @@ train.py -> python script to train a neural network on flowers dataset of images
 predict.py -> python script to predict flower name from input image.
 cat_to_name.json -> JSON file storing a dictionary of numeric indices (keys) and image categories (values - flowers' names)
 
-To access the data: download it [here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz)
+To access the data: download it [here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz).
+
 The data is made of the main 'flowers' directory, containing 3 subdirectories: train, valid, test.
 
 
