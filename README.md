@@ -13,6 +13,8 @@ Part 2 - pair of Python scripts: train.py and predict.py
 # Description of the project
 
 > Part 1 of the project aimed to implement an image classifier with PyTorch, using a pre-trained neural network 'VGG-19'. 
+
+
 > Part 2 consisted of converting the code into the associated command line application.
 
 
@@ -34,4 +36,4 @@ This project was submitted by Dilay Fidan Ercelik, as part of the AI Programming
 
 
 # License
-This work is licensed under the MIT License - see [L
+This work is licensed under the MIT License - see [LICENSE](https://github.com/dilayercelik/Image-Classifier-Flowers/blob/master/LICENSE)
